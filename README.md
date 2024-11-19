@@ -5,6 +5,8 @@
 
 # Usage
 
+Example usage
+
 1. Where the TGA images are Located:
 input_directory = "E:\\Games\\Games_Laboratory\\Models\\mw_calisto_arms\\mw_calisto_arms\\textures"
 
